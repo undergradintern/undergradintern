@@ -1,4 +1,3 @@
-Software Engineering  
-  
+Software Engineer  
 Design  
-
+Finance
