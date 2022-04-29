@@ -1,3 +1,3 @@
-Software Engineering  
-Design  
-Finance
+Software Engineer
+Creative Director
+
