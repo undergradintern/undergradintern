@@ -1,3 +1,3 @@
 Software Engineer  
-Creative Director
+Creative Director  
 Product Manager
