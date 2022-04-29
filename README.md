@@ -1,3 +1,4 @@
-## Simplicity
-## Design
-## Engineering
+
+Simplicity
+Design
+Engineering
